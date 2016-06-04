@@ -1,2 +1,2 @@
 # otter
-Operational Transform for Dart.
+Operational Transform framework for Dart.

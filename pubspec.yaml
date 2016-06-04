@@ -1,0 +1,11 @@
+name: otter
+version: 0.0.1
+homepage: https://github.com/damoti/otter
+description: >
+  Operational Transform framework for Dart.
+author: Lex Berezhny <lex@damoti.com>
+dependencies:
+  otter_json:
+   path: ../otter-json
+dev_dependencies:
+  unittest: any
